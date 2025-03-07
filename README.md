@@ -106,6 +106,9 @@ sudo chmod o+x /home/ubuntu/projects
 sudo chmod o+x /home/ubuntu
 ```
 
+```sh
+cd /etc/apache2/sites-available/
+```
 ---
 
 ## **Step 8: Configure Apache**
