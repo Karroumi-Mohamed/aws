@@ -166,8 +166,10 @@ DB_DATABASE=laravel_db
 DB_USERNAME=laravel_user
 DB_PASSWORD=your_password
 ```
+```sh
+sudo chmod -R 777 .
+```
 
-Generate application key:
 ```sh
 php artisan key:generate
 ```
