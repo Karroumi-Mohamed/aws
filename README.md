@@ -102,8 +102,8 @@ sudo chmod -R 775 /home/ubuntu/projects/myapp/storage /home/ubuntu/projects/myap
 ```
 
 ```sh
-sudo chown o+x /home/ubuntu/projects
-sudo chown o+x /home/ubuntu
+sudo chmod o+x /home/ubuntu/projects
+sudo chmod o+x /home/ubuntu
 ```
 
 ---
